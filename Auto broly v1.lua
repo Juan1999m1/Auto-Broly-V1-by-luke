@@ -1,29 +1,3 @@
-Settings = {
-    Earth = false; -- Goes To Earth then Queue --
-    Queue = true; -- Goes To Queue --
-    broly = true; -- Tween To Broly --
-    PowerDown = true; -- When low ki it powers down Character --
-    lateTransform = true; -- Transforms at 76% ki --
-    Invisible = true; -- invisible in queue, wnt work with promote --
-    brolycheck = true; -- check if broly exist , keep on --
-    Sky = false; -- changes sky -- 
-    Promote = false; -- Wont Work if Invisible is true --
-    Waittime = 1; -- wait for the script to start --
-    GrabCheckTime = 1000; --  --
-    RejoinTime = 80; -- rejoins lmao --
-}
-
-
-Moves = {
-        "Sweep Kick";
-        "Neo Wolf Fang Fist";
-        "Meteor Crash";
-        "Wolf Fang Fist";
-        "Anger Rush";
-        "Deadly Dance";
-        "God Slicer";
-        "Vital Strike";
-        }
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
